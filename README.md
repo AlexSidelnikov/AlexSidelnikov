@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 #### Languages \ Языки
 
 ![python](https://img.shields.io/badge/-Python-f1faee?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-MSSQL-f1faee?style=for-the-badge&logo=MSSQL)
+![SQL](https://img.shields.io/badge/-SQL-f1faee?style=for-the-badge&logo=SQL)
 
 #### Tools \ Инструменты
 
