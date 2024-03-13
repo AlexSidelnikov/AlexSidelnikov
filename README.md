@@ -10,7 +10,20 @@ You can click the Preview link to take a look at your changes.
 Имею 10 лет опыта в малом бизнесе: метрики, анализ бизнес показателей, маркетинговая аналитика. 
 
 Люблю визуализацию данных. Нравится искать истину в цифрах. Интересуюсь машинным обучением.
+
+#### I can do \ Я умею делать
+
+• предобработка данных
+• исследовательский анализ данных
+• визуализация данных
+• проверка статистических гипотез
+• построение продуктовых метрик
+• A/B-тестирование
+• событийная аналитика
+• построение дашбордов
+
 #### Educated \ Обучен
+
 ![yandex.practicum](https://img.shields.io/badge/-yandex.practicum-000000?style=for-the-badge&logo=yandex.practicum)
 ![Stepik](https://img.shields.io/badge/-stepik-000000?style=for-the-badge&logo=stepik)
 
