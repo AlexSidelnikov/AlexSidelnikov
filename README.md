@@ -5,9 +5,8 @@ AlexSidelnikov/AlexSidelnikov is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ### About Me \ Обо мне
-Я начинающий специалист Data Analyst, прошёл обучение в Яндекс.Практикум на курсе "Аналитик данных". 
-
-Имею 10 лет опыта в малом бизнесе.
+Специалист Data Analyst. 
+Имею 10 лет опыта в малом бизнесе: метрики, анализ бизнес показателей, маркетинговая аналитика. 
 #### Educated \ Обучен
 ![yandex.practicum](https://img.shields.io/badge/-yandex.practicum-000000?style=for-the-badge&logo=yandex.practicum)
 ![Stepik](https://img.shields.io/badge/-stepik-000000?style=for-the-badge&logo=stepik)
