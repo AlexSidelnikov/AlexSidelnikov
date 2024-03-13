@@ -6,7 +6,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ### About Me \ Обо мне
 Специалист Data Analyst. 
+
 Имею 10 лет опыта в малом бизнесе: метрики, анализ бизнес показателей, маркетинговая аналитика. 
+
+Люблю визуализацию данных. Нравится искать истину в цифрах. Интересуюсь машинным обучением.
 #### Educated \ Обучен
 ![yandex.practicum](https://img.shields.io/badge/-yandex.practicum-000000?style=for-the-badge&logo=yandex.practicum)
 ![Stepik](https://img.shields.io/badge/-stepik-000000?style=for-the-badge&logo=stepik)
